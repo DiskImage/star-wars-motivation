@@ -38,7 +38,7 @@ module.exports = (robot) ->
     '“Sure. I can\'t move a rock with my mind, but, boy, can I make that rock think it\'s been moved.” - Corran Horn',
     '"You know impossible is what Rogue Squadron does best of all." ― Corran Horn',
     '"To say the Force works in mysterious ways is to admit one\'s ignorance, for any mystery can be solved through the application of knowledge and unrelenting effort." - Darth Plagueis the Wise',
-    '“Let the cookie win.” - C3-P0'
+    '“Let the Wookie win.” - C3-P0'
   ]
 
   robot.hear /motivate me/i, (msg) ->
