@@ -8,7 +8,7 @@
 #   motivate me - responds with a randomly selected star wars motivational quote
 #
 # Author:
-#   Ian <igraves@akitabox.com>
+#   Ian <ian+npmjs@iangrav.es>
 
 module.exports = (robot) ->
   star_wars_quotes = [

@@ -21,8 +21,8 @@ Then add **hubot-star-wars-motivation** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> motivate me
+hubot>> “Do. Or do not. There is no try.” – Yoda
 ```
 
 ## NPM Module

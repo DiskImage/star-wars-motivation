@@ -1,8 +1,8 @@
 {
   "name": "hubot-star-wars-motivation",
   "description": "A hubot script that listens for the phrase, 'motivate me' then replies with randomly selected star wars quotes that are vaguely motivational.",
-  "version": "0.0.0",
-  "author": "Ian <igraves@akitabox.com>",
+  "version": "0.0.2",
+  "author": "Ian <ian+npmjs@iangrav.es>",
   "license": "MIT",
 
   "keywords": "hubot, hubot-scripts, star-wars",
