@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-star-wars-motivation.git"
+    "url": "git@github.com:DiskImage/star-wars-motivation.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-star-wars-motivation/issues"
+    "url": "https://github.com/DiskImage/star-wars-motivation/issues"
   },
 
   "dependencies": {
